@@ -5,7 +5,7 @@
 
 const char* ssid = "FPT Telecom";
 const char* password = "diep1976";
-const char* apiKey = "AK_CS.d40b848092e711efa865954870c6d3a1.LOcehByA9rAsj3hjEUoCH64mBubM7HBveBYdGABQlUstKcMMHTA6TJ1RZBMWx3DXptCLRCap";  // Thay bằng API key của bạn
+const char* apiKey = "your api";  // Thay bằng API key của bạn
 const char* apiUrl = "https://oauth.casso.vn/v2/transactions?fromDate=2024-01-01&pageSize=10&sort=ASC";
 
 DFRobotDFPlayerMini myDFPlayer;
